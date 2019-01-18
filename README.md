@@ -12,6 +12,12 @@ $ bundle install
 ```bash
 $ rails db:migrate
 ```
+If seeding with fake vegetable data from faker
+```bash
+ $ rake db:seed
+```
+
+
 
 ## RUNNING THE SERVER
 ```bash
