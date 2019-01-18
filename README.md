@@ -1,24 +1,16 @@
-# README
+# Shopify 2019 Intern Challenge
+Barebones server-side api for an online store with the basic functionality of viewing all products, available inventory, and purchasing a product
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## INSTALL DEPENDENCIES
+```bash
+$ bundle install
+```
 
-Things you may want to cover:
+## RUN MIGRATION
+```bash
+$ rails db:migrate
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## RUN SERVER
+```bash
+$ rails s
