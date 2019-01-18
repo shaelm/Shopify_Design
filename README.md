@@ -51,7 +51,7 @@ http://localhost:3000/api/v1/products/purchase/Artichoke
 
 
 ## Built With
-* [Ruby on Rails] (https://rubyonrails.org/ - The web framework used
+* [Ruby on Rails] (https://rubyonrails.org/) - The web framework used
 * [Faker](https://github.com/stympy/faker) - Seed the database with fake vegetable data
 
 ## Author
